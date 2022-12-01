@@ -1,0 +1,22 @@
+{
+  "name": "npm-init",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Milton Hernandez <cariasmilton2002@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "json": "^11.0.0",
+    "json-server": "^0.15.0",
+    "moment": "^2.29.4",
+    "react": "^18.2.0",
+    "server": "^1.0.37"
+  },
+  "devDependencies": {
+    "eslint": "^8.28.0"
+  }
+}
